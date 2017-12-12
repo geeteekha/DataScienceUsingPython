@@ -1,0 +1,13 @@
+Python:
+     python is a widely used highlevel programming language for general purpose programming created byguido van rossum and first
+in 1991.it is a intrepted language,python has a design philosphy that emphasizes code realiability (notably using whitespace 
+indentation to delimit code blocks rather than curly brackets or keywords).
+
+Advantages:
+It is very easy to write the code.
+Unlike other languages it is easy to understand the code in python because it contains basic english words.
+It closely resemble the english language.
+
+applications:
+Python is widely used in scientific and numeric computing.
+Python offers many choices for web development.
